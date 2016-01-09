@@ -1,0 +1,15 @@
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	di = diff
+	dic = diff --cached
+	ps = push
+[user]
+	name = zhibinw
+	email = 
+[core]
+	editor = vim
+[color]
+	ui = auto
