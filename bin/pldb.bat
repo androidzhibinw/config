@@ -1,0 +1,1 @@
+adb pull /data/data/com.android.providers.telephony/databases/mmssms.db .
