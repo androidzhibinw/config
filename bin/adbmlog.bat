@@ -1,0 +1,1 @@
+adb logcat -v threadtime >last.log 
